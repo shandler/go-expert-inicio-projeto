@@ -1,0 +1,173 @@
+﻿Diagnose log at 2023-09-13T02:00:03Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.3.2
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 19045)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\Shandler
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=DESKTOP-A2ADGNG
+GIT_TRACE2_PARENT_SID=f68d7e02-4d5a-4f5f-bd76-ec77b83104a6
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+ProgramW6432=C:\Program Files
+OneDrive=C:\Users\Shandler\OneDrive
+WT_PROFILE_ID={0caa0dad-35be-5f56-a8ff-afceeeaa6101}
+TMP=C:\Users\Shandler\AppData\Local\Temp
+PROCESSOR_REVISION=4e03
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\Shandler\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\Shandler\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+GOPATH=C:\Users\Shandler\go
+COLORTERM=truecolor
+USERDOMAIN=DESKTOP-A2ADGNG
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Shandler\bin;C:\TDM-GCC-64\bin;C:\Program Files\ImageMagick-7.1.1-Q16-HDRI;C:\Program Files\ImageMagick-6.9.12-Q8;C:\Program Files\Eclipse Adoptium\jdk-11.0.18.10-hotspot\bin;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Go\bin;C:\Program Files\D2\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Shandler\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Shandler\AppData\Local\Programs\Python\Python310\;C:\Users\Shandler\AppData\Local\Microsoft\WindowsApps;C:\Users\Shandler\AppData\Local\GitHubDesktop\bin;C:\Users\Shandler\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Shandler\go\bin;C:\Users\Shandler\AppData\Roaming\npm;C:\Programas\ffmpeg-6.0\bin
+PROCESSOR_LEVEL=6
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+TMPDIR=C:\Users\Shandler\AppData\Local\Temp
+PROMPT=$P$G
+PSModulePath=%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=4
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+WT_SESSION=566e131d-8904-408a-8925-7f14242ac0e8
+WSLENV=WT_SESSION::WT_PROFILE_ID
+ProgramFiles=C:\Program Files (x86)
+ProgramData=C:\ProgramData
+MSYS=disable_pcon
+ChocolateyInstall=C:\ProgramData\chocolatey
+PLINK_PROTOCOL=ssh
+SystemRoot=C:\Windows
+HOME=C:\Users\Shandler
+LC_CTYPE=C.UTF-8
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\DESKTOP-A2ADGNG
+USERPROFILE=C:\Users\Shandler
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-A2ADGNG
+APPDATA=C:\Users\Shandler\AppData\Roaming
+HOMEDRIVE=C:
+USERNAME=Shandler
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\Windows\system32\cmd.exe
+SystemDrive=C:
+windir=C:\Windows
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Shandler\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Shandler\AppData\Local\Temp\bb2d452fb85276fedfe92cff'... OK
+Reading from temporary file 'C:\Users\Shandler\AppData\Local\Temp\bb2d452fb85276fedfe92cff'... OK
+Deleting temporary file 'C:\Users\Shandler\AppData\Local\Temp\bb2d452fb85276fedfe92cff'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Shandler
+UserDataDirectoryPath: C:\Users\Shandler\.gcm
+GetCurrentDirectory(): C:\Codigos\go\Pos_Go_Expert\9-APIS
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:52702/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.42.0.windows.2'
+Locating current repository... OK
+Git repository at 'C:/Codigos/go/Pos_Go_Expert/9-APIS/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Users/Shandler/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/Shandler/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/Shandler/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/Shandler/.gitconfig	filter.lfs.required=true
+file:C:/Users/Shandler/.gitconfig	user.name=Shandler
+file:C:/Users/Shandler/.gitconfig	user.email=cshandler@gmail.com
+file:C:/Users/Shandler/.gitconfig	core.editor="C:\Users\Shandler\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
+file:C:/Users/Shandler/.gitconfig	credential.provider=generic
+file:C:/Users/Shandler/.gitconfig	credential.helper=manager
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/shandler/go-expert-inicio-projeto.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Shandler\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Shandler\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
