@@ -1,0 +1,20 @@
+gh auth login
+gh auth status
+
+gh list repo
+gh repo sync
+
+
+Comandos utilizados:
+
+git clone "UrlRepositório"
+git status
+git add "NomeArquivo"
+git add .
+git commit -m "Mensagem do Commit"
+git config --global user.email "email@email.com"
+git config --global user.name "Nome para Exibição"
+git push
+git log
+git fetch
+git pull
