@@ -1,3 +1,3 @@
-module github.com/shandler/9-APIS
+module github.com/shandler/go-expert-inicio-projeto
 
 go 1.20
