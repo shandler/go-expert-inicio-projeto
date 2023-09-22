@@ -18,3 +18,16 @@ git push
 git log
 git fetch
 git pull
+
+
+https://github.com/devfullcycle/goexpert/blob/main/9-APIs
+https://www.messianica.org.br/escrito-divino?d=22/09/2023
+http://livro.fullcycle.com.br/Livro_FullCycle-0.8.pdf
+
+https://mestrepythonista.com/dev-aprender-v2/
+https://sacola.americanas.com.br/carrinho/?cartId=64f1eaca06a48f2c009e937f
+
+https://americanas.com.br/produto/6869965802
+https://americanas.com.br/produto/7462422045
+https://www.americanas.com.br/produto/7272635801/cartao-memoria-micro-sd-sandisk-128gb-microsd-ultra-140mbs?pfm_carac=Produtos%20patrocinados&pfm_index=1&pfm_page=product&pfm_pos=item_page.ads&pfm_type=vit_recommendation&DCSext.recom=RR_item_page.ads-mars_BladeTrinityCategory%3AP%3A100%3A%3Aads%3Dtrue%3AorderAdsTest%3Dmotor_control%3Atestab%3DsingleStrategy&nm_origem=rec_item_page.ads-mars_BladeTrinityCategory%3AP%3A100%3A%3Aads%3Dtrue%3AorderAdsTest%3Dmotor_control%3Atestab%3DsingleStrategy&nm_ranking_rec=1&chave=b2wads_64bec86175261f0010cf79fa_36852478000197_7272635801_c8125fbe-03f0-4d6d-b49b-7d3d58b87a6b&sellerId=36852478000197&portfolio=rec&st=mars_BladeTrinityCategory&pl=item_page.ads&offerId=6421d887401db3b86b95488e
+
