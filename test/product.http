@@ -1,0 +1,7 @@
+POST htt://localhost:8000/products
+Content-Type: application/json; charset=utf-8
+
+{
+    "Name": "My Product",
+    "price": 100
+}
